@@ -1,2 +1,2 @@
 # - copy the test config file for DB to mongod.conf
-cp -f ~/configFiles/mongo/mongod_test.conf /etc/mongod.conf
+sudo cp -f ~/configFiles/mongo/mongod_test.conf /etc/mongod.conf
